@@ -4,6 +4,12 @@ a = 10+5
 
 print(a)
 kjdlkfs ödkölkj
+s-ldkök
+ölsdkfösdkjfj
+kjdsflkdsj
+,knb,nb
+hohohoh
+.dfm
 s-ldk
 lkkjgskögl
 dkfgö
